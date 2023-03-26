@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "..\Ucgen\Triang
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle", "..\Circle\Circle.csproj", "{EDFCFB23-C0F5-4B49-A5BA-5202754CEE31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma", "..\Algoritma\Algoritma.csproj", "{97354F92-0E30-42D6-98FC-57669EB1F962}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EDFCFB23-C0F5-4B49-A5BA-5202754CEE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDFCFB23-C0F5-4B49-A5BA-5202754CEE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDFCFB23-C0F5-4B49-A5BA-5202754CEE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97354F92-0E30-42D6-98FC-57669EB1F962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97354F92-0E30-42D6-98FC-57669EB1F962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97354F92-0E30-42D6-98FC-57669EB1F962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97354F92-0E30-42D6-98FC-57669EB1F962}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
