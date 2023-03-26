@@ -8,15 +8,16 @@
 
         public override void Draw()
         {
-            for (int i = 1; i <= size; i++)
+            for (int i = 0; i < size; i++) 
             {
-                for (int j = 1; j <= size - i; j++)
+                for (int k = i; k < size; k++) 
                 {
                     Console.Write(" ");
                 }
-                for (int k = 1; k <= 2 * i - 1; k++)
+                for (int x = 0; x <= i; x++)
                 {
-                    Console.Write("*");
+                    Console.Write("*"); 
+                    Console.Write(" ");
                 }
                 Console.WriteLine();
             }
