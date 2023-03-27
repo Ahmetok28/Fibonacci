@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SrtingReverse", "..\SrtingR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeCalculation", "..\AreaCalculation\ShapeCalculation.csproj", "{8D01CE42-D178-42B5-B1B8-98B395D503F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfIntegerPairs", "..\SumOfIntegerPairs\SumOfIntegerPairs.csproj", "{F58F37B2-4EDF-47BA-AD8C-3FCF17FF4CB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8D01CE42-D178-42B5-B1B8-98B395D503F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D01CE42-D178-42B5-B1B8-98B395D503F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D01CE42-D178-42B5-B1B8-98B395D503F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58F37B2-4EDF-47BA-AD8C-3FCF17FF4CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58F37B2-4EDF-47BA-AD8C-3FCF17FF4CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58F37B2-4EDF-47BA-AD8C-3FCF17FF4CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58F37B2-4EDF-47BA-AD8C-3FCF17FF4CB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
