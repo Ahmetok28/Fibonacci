@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteSquare", "..\Absolu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharReplace", "..\CharReplace\CharReplace.csproj", "{048ED297-6CA3-45A1-AC5A-C202D207A893}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consonant", "..\Consonant\Consonant.csproj", "{FE475DD4-40BA-48A6-88F1-FA662480960C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{048ED297-6CA3-45A1-AC5A-C202D207A893}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{048ED297-6CA3-45A1-AC5A-C202D207A893}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{048ED297-6CA3-45A1-AC5A-C202D207A893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE475DD4-40BA-48A6-88F1-FA662480960C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE475DD4-40BA-48A6-88F1-FA662480960C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE475DD4-40BA-48A6-88F1-FA662480960C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE475DD4-40BA-48A6-88F1-FA662480960C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
