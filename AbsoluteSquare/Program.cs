@@ -1,6 +1,4 @@
-﻿
-
-Console.WriteLine("Lütfen değerleri girin:");
+﻿Console.WriteLine("Lütfen değerleri girin:");
 string input = Console.ReadLine();
 
 string[] values = input.Split(' ');
