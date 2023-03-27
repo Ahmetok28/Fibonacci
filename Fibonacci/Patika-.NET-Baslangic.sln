@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci.csproj", "{77FFB76B-3FA7-462B-B3A9-D1F4A64506B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci.csproj", "{77FFB76B-3FA7-462B-B3A9-D1F4A64506B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "..\Ucgen\Triangle.csproj", "{D5C2803C-0BA5-4777-B592-2486B844F28D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle", "..\Ucgen\Triangle.csproj", "{D5C2803C-0BA5-4777-B592-2486B844F28D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle", "..\Circle\Circle.csproj", "{EDFCFB23-C0F5-4B49-A5BA-5202754CEE31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Circle", "..\Circle\Circle.csproj", "{EDFCFB23-C0F5-4B49-A5BA-5202754CEE31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma", "..\Algoritma\Algoritma.csproj", "{97354F92-0E30-42D6-98FC-57669EB1F962}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritma", "..\Algoritma\Algoritma.csproj", "{97354F92-0E30-42D6-98FC-57669EB1F962}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SrtingReverse", "..\SrtingReverse\SrtingReverse.csproj", "{14D6B244-A992-4862-BCA2-804379743BE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SrtingReverse", "..\SrtingReverse\SrtingReverse.csproj", "{14D6B244-A992-4862-BCA2-804379743BE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeCalculation", "..\AreaCalculation\ShapeCalculation.csproj", "{8D01CE42-D178-42B5-B1B8-98B395D503F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeCalculation", "..\AreaCalculation\ShapeCalculation.csproj", "{8D01CE42-D178-42B5-B1B8-98B395D503F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfIntegerPairs", "..\SumOfIntegerPairs\SumOfIntegerPairs.csproj", "{F58F37B2-4EDF-47BA-AD8C-3FCF17FF4CB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfIntegerPairs", "..\SumOfIntegerPairs\SumOfIntegerPairs.csproj", "{F58F37B2-4EDF-47BA-AD8C-3FCF17FF4CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteSquare", "..\AbsoluteSquare\AbsoluteSquare.csproj", "{05A15448-279A-4C83-B477-4EFF15313C5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{F58F37B2-4EDF-47BA-AD8C-3FCF17FF4CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F58F37B2-4EDF-47BA-AD8C-3FCF17FF4CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F58F37B2-4EDF-47BA-AD8C-3FCF17FF4CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A15448-279A-4C83-B477-4EFF15313C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A15448-279A-4C83-B477-4EFF15313C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A15448-279A-4C83-B477-4EFF15313C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A15448-279A-4C83-B477-4EFF15313C5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
